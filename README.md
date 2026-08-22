@@ -30,5 +30,3 @@ Desenvolver uma ferramenta capaz de automatizar e facilitar o processo de ensala
 👥 Maior praticidade para os usuários;
 ⚡ Agilidade na organização acadêmica.
 📝 Resumo
-
-O Sistema para Ensalamento será uma solução voltada para instituições de ensino, com foco na automação, organização e otimização do processo de distribuição de turmas em salas. A proposta é proporcionar uma ferramenta simples e eficiente para auxiliar os usuários na gestão dos espaços acadêmicos.
