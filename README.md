@@ -1,32 +1,24 @@
 # Laura-Casteleins.github.io
-Sistema para Ensalamento
-📚 Informações do Projeto
-Nome: Laura Gois Casteleins
-Turma: 2ESAN
-Faculdade: UniBrasil Centro Universitário
-Disciplina: Prática Profissional Desenvolvimento
-Projeto: Sistema para Ensalamento
-Professor: Frank Alcantara Coelho
-👥 Integrantes
-Gabriel Mendes
-Gabriel Geri
-Rennan Raposo
-Laura Casteleins
-💡 Descrição do Projeto
+# Sistema para Ensalamento
 
-Este projeto tem como objetivo desenvolver um sistema de ensalamento automático de turmas, destinado a auxiliar instituições de ensino na organização e distribuição das turmas em suas respectivas salas.
+> Este repositório é destinado a fins acadêmicos, para teste de aula.
 
-A solução busca otimizar o tempo dos usuários, facilitando o processo de alocação das turmas e contribuindo para uma organização mais eficiente dos espaços disponíveis na instituição.
+## 📋 Sobre o projeto
 
-🎯 Objetivo
+Este projeto servirá para auxiliar instituições de ensino com o **ensalamento automático** de suas turmas, ajudando na otimização de tempo para os usuários.
 
-Desenvolver uma ferramenta capaz de automatizar e facilitar o processo de ensalamento, tornando a organização das turmas mais rápida, prática e eficiente.
+## 🎓 Informações acadêmicas
 
-🚀 Benefícios
-⏱️ Otimização do tempo durante o processo de ensalamento;
-🏫 Melhor organização das salas e turmas;
-🤖 Automatização do processo de distribuição;
-📋 Redução de tarefas manuais;
-👥 Maior praticidade para os usuários;
-⚡ Agilidade na organização acadêmica.
-📝 Resumo
+| | |
+|---|---|
+| **Instituição** | Centro Universitário Autônomo do Brasil (UniBrasil) |
+| **Disciplina** | Prática Profissional de Desenvolvimento |
+| **Turma** | 2EASN |
+| **Professor** | [Frank Alcantara](https://frankalcantara.com/) |
+
+## 👥 Equipe
+
+- Gabriel Mendes
+- Gabriel Garai
+- Rennan Raposo da Silva
+- Laura Casteleins
