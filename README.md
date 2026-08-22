@@ -22,3 +22,7 @@ Este projeto servirá para auxiliar instituições de ensino com o **ensalamento
 - Gabriel Garai
 - Rennan Raposo da Silva
 - Laura Casteleins
+
+## 🙏 Créditos
+ 
+Este projeto utiliza como base o template **[Light Bootstrap Dashboard](https://github.com/creativetimofficial/light-bootstrap-dashboard)**, desenvolvido por **[Creative Tim](https://www.creative-tim.com/)**, licenciado sob MIT. Todo o crédito pela criação original do template é dos seus respectivos autores.
